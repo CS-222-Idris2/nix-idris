@@ -1,0 +1,8 @@
+package mypkg
+
+main = Main
+executable = main
+
+modules = Main
+
+sourcedir = "src"

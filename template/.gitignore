@@ -1,0 +1,6 @@
+# direnv and vscode
+.envrc
+.vscode
+
+# idris build files
+build
